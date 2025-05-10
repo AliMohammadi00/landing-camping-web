@@ -1,26 +1,31 @@
-<h2>🏕️ Camping Landing Page</h2>
-<p>A modern and responsive landing page for a fictional camping company or service. Built with HTML, CSS, and JavaScript.</p>
+## 🏕️ Camping Landing Page
+A modern and responsive landing page for a fictional camping company or service. Built with HTML, CSS, and JavaScript.
 
-<h3>🚀 Demo</h3>
+### 🚀 Demo
 <a href="https://alimohammadi00.github.io/landing-camping-web/">Live Demo</a>
 
-<h3>📸 Preview</h3>
+### 📸 Preview
 
-<h3>📁 Features</h3>
-<ul>
-  <li>Responsive design for mobile and desktop</li>
-  <li>Smooth scrolling and animations</li>
-  <li>Hero section with CTA</li>
-  <li>Image gallery</li>
-  <li>Simple contact section</li>
-</ul>
+![web preview](https://github.com/AliMohammadi00/landing-camping-web/blob/master/camping-web.png?raw=true)
 
-<h3>🛠️ Built With</h3>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-</ul>
+### 📁 Features
 
-<h3>📜 License</h3>
-<p>This project is licensed under the `MIT License`.</p>
+
+  - Responsive design for mobile and desktop
+  - Smooth scrolling and animations
+  - Hero section with CTA
+  - Image gallery
+  - Simple contact section
+
+
+### 🛠️ Built With
+
+  - HTML5
+  - CSS3
+  - JavaScript
+
+
+### 📜 License
+
+This project is licensed under the `MIT License`.
+
