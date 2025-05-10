@@ -674,17 +674,6 @@ footer>.container {
     z-index: -2
 }
 
-.destinations::before {
-    background-image: url(../images/svgs/shape2.svg);
-    left: -260px;
-    top: 680px
-}
-
-.destinations::after {
-    background-image: url(../images/svgs/shape1.svg);
-    left: 170px;
-    top: 0
-}
 
 .destinations__title {
     width: 28rem;
@@ -999,6 +988,7 @@ footer>.container {
 }
 
 @media (min-width:992px) {
+ 
     .nav__btn {
         display: -webkit-box;
         display: -ms-flexbox;
