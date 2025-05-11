@@ -24,6 +24,10 @@ A modern and responsive landing page for a fictional camping company or service.
   - CSS3
   - JavaScript
 
+### 🙌 Author
+
+Made with ❤️ by **Ali Mohammadi**  
+[GitHub Profile](https://github.com/alimohammadi00)
 
 ### 📜 License
 
