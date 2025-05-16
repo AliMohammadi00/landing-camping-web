@@ -6,7 +6,7 @@ A modern and responsive landing page for a fictional camping company or service.
 
 ### 📸 Preview
 
-![web preview](https://github.com/AliMohammadi00/landing-camping-web/blob/master/camping-web.png?raw=true)
+![web preview](https://github.com/AliMohammadi00/landing-camping-web/blob/master/images/fullscreenshot.png)
 
 ### 📁 Features
 
